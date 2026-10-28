@@ -3,7 +3,7 @@
 const sahaba = [
 
     {//* السيدة خديجة بنت خويلد
-        slug: "Khadijah_bint_Khuwaylid",
+        slug: "Khadijah_bint_Khuaylid",
         sahabe_name: "Khadijah bint Khuwaylid",
         title: "The Pure One",
         role: "The Prophet ﷺ’s first wife and the first person to believe in his message, providing decisive support during the earliest and most difficult stage of revelation.",
